@@ -1,2 +1,2 @@
-# ScaDULERv2-ps-scala-minizinc
-ScaDULERv2 planning service implementation using Scala and Minizinc.
+# RESTeduler solver server
+RESTeduler (ScaDULER V2) planning service implementation using Go and Minizinc.
